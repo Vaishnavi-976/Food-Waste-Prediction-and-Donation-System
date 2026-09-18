@@ -1,0 +1,2 @@
+# Root requirements file for Food Waste Prediction and Donation System
+-r backend/requirements.txt
